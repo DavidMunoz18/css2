@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.logo{
+	font-size: 3rem;
+}
+.menu02{
+	background-color: gray;
+	border: solid;
+	border-color: red;
+	color: white;
+	
+}
+.rojo{
+	color: red;
+	font-size: 2rem;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover{
+	color: black;
+}
